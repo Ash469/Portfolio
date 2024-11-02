@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Quiz Website",
+    "desc": "It is a full-stack project built with the MERN stack that provides users with a complete quiz experience, including authentication, timed questions, score tracking, and a leaderboard.",
+    "image": "notystackandroid",
+    "category": "mern react",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/Ash469/QuizFinal"
+    }
+  },
+  {
+    "name": "Pizza Ordering Website",
+    "desc": "React-based project that allows users to browse a menu, add pizzas to a cart, and manage their order before checkout.",
+    "image": "pizzaWebsite",
+    "category": "react",
+    "links": {
+      "view": "https://devil-pizza.vercel.app/",
+      "code": "https://github.com/Ash469/devilPizza"
+    }
+  },
+  {
+    "name": "TextUtils Website", 
+    "desc": "React-based application designed for easy text manipulation and formatting.",
+    "image": "text",
+    "category": "react basicweb",
+    "links": {
+      "view": "https://textutilis-qvpi1r8ux-ash469s-projects.vercel.app/",
+      "code": "https://github.com/Ash469/Textutilis-React"
+    }
+  },
+  {
+    "name": "Image-to-Pdf Converter", 
+    "desc": "Html,css asnd javascript based project that converts image to pdf.",
+    "image": "imageToPdf",
+    "category": "basicweb",
+    "links": {
+      "view": "https://web-projects-gkx8jy7yo-ash469s-projects.vercel.app/",
+      "code": "https://github.com/Ash469/Web-Projects/tree/main/image_to_pdf"
+    }
+  },
+  {
+    "name": "Tic Tac Toe Game", 
+    "desc": "Html,css asnd javascript based tic tac toe game.",
+    "image": "ticTacToe",
+    "category": "basicweb",
+    "links": {
+      "view": "https://web-projects-13py.vercel.app/",
+      "code": "https://github.com/Ash469/Web-Projects/tree/main/tic_tac_toe"
+    }
+  },
+  {
+    "name": "Dynamic Login and Register Page", 
+    "desc": "Html,css asnd javascript based Login as well as Register Page.",
+    "image": "login",
+    "category": "basicweb",
+    "links": {
+      "view": "https://web-projects-v9x8-p6uxhun13-ash469s-projects.vercel.app/",
+      "code": "https://github.com/Ash469/Web-Projects/tree/main/login%20page"
+    }
+  }
+]
